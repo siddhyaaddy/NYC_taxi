@@ -122,6 +122,6 @@ s3://<bucket_name>/taxi/
 
 ## 🌐 Live Demo
 
-🔗 Streamlit Dashboard – 
+🔗 Streamlit Dashboard – https://github.com/siddhyaaddy/NYC_taxi/blob/main/streamlit-frontend_v2-2025-03-06-08-03-78.mp4
 
 ---
