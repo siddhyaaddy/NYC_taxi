@@ -1,4 +1,4 @@
-# urban-traffic-forecast
+# NYC Taxi
 
 A full end-to-end ML pipeline project using the NYC Yellow Taxi trip data (2023–2024) built with AWS services. This pipeline ingests, processes, models, and visualizes taxi demand predictions using LightGBM models and a real-time dashboard powered by Streamlit.
 
