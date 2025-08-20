@@ -38,3 +38,10 @@ NYC Taxi Data
    └──▶ Inference Pipeline (inference_pipeline.yaml)
                  └──▶ Predictions + Metrics
                                └──▶ Streamlit Dashboard
+```
+---
+## 🌐 Live Demo
+
+🔗 Streamlit Dashboard – https://github.com/siddhyaaddy/NYC_taxi/blob/main/streamlit-frontend_v2-2025-03-06-08-03-78.mp4
+
+---
